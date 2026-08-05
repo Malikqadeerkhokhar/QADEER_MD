@@ -173,7 +173,7 @@
   <a href="https://dashboard.heroku.com/new?template=https://github.com/QADEER_MD/QADEER_MD">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000" width="200"/>
   </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=Arslan-MD/Mishu-MD">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=Qadeer-MD">
     <img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000" width="200"/>
   </a>
   <a href="https://railway.app/new">
