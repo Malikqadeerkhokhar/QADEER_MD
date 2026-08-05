@@ -1,17 +1,17 @@
-## Mishu-MD
-* Mishu-MD is a world Powerful buttons multi-device WhatsApp bot. 
-* Developed by ArslanMD Official.
+## QADEER_MD
+* QADEER_MD is a world Powerful buttons multi-device WhatsApp bot. 
+* Developed by QADEER_MD Official.
 
 <!-- ============================================
-     🚀 MISHU-MD - NEXT GEN WHATSAPP BOT
-     👑 Developer: ᴀʀꜱʟᴀɴ-ᴍᴅ
+     🚀 QADEER_MD - NEXT GEN WHATSAPP BOT
+     👑 Developer: QADEER_MD
      ⚡ Version: 7.0.0
      📌 Professional Tech Theme
      ============================================ -->
 
 <!-- GLOWING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=900&height=60&lines=🚀+MISHU-MD+🚀;⚡+NEXT+GEN+WHATSAPP+BOT+⚡;💻+PROFESSIONAL+EDITION+💻" alt="MISHU-MD Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=900&height=60&lines=🚀+MISHU-MD+🚀;⚡+NEXT+GEN+WHATSAPP+BOT+⚡;💻+PROFESSIONAL+EDITION+💻" alt="QADEER_MD Header" />
 </p>
 
 
@@ -29,9 +29,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_MISHU_MD_EDITION-00F0FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="MISHU-MD" />
+  <img src="https://img.shields.io/badge/🔥_QADEER_MD_EDITION-00F0FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="QADEER_MD" />
   <img src="https://img.shields.io/badge/📌_VERSION_7.0.0-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Version" />
-  <img src="https://img.shields.io/badge/💻_DEVELOPER-ARSLAN_MD-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Developer" />
+  <img src="https://img.shields.io/badge/💻_DEVELOPER-QADEER_MD-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Developer" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ## 👑 DEVELOPER
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💎_DEVELOPER-ARSLAN_MD-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/💎_DEVELOPER-QADEER_MD-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/🚀_BOT_CREATOR-FF6B00?style=for-the-badge&logo=robot&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/💻_WHATSAPP_EXPERT-00FF00?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/📌_VERSION-7.0.0-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
@@ -108,7 +108,7 @@
 ## 🔗 CONNECT WITH DEVELOPER
 
 <p align="center">
-  <a href="https://wa.me/923237045919">
+  <a href="https://wa.me/92423317899">
     <img src="https://img.shields.io/badge/📱_CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" width="250"/>
   </a>
   <a href="https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306">
@@ -125,19 +125,19 @@
 ## 🌐 SOCIAL NETWORK
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/KRyARlvcUjoIv1CPSSyQA5">
+  <a href="https://chat.whatsapp.com/KMsl3nQYmMT5e5lugbSUmI?s=cl&p=a&ilr=0">
     <img src="https://img.shields.io/badge/👥_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" width="280"/>
   </a>
-  <a href="https://youtube.com/@arslanmdofficial">
+  <a href= https://whatsapp.com/channel/0029VbDY5cN9Gv7dpiRdsh3B">
     <img src="https://img.shields.io/badge/📺_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" width="280"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/arslanmd">
+  <a href="https://t.me/Qadeerkhokhar786">
     <img src="https://img.shields.io/badge/📡_TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" width="280"/>
   </a>
-  <a href="https://instagram.com/ArskanMDofficial">
+  <a href="https://instagram.com/@ai_future_world01official">
     <img src="https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" width="280"/>
   </a>
 </p>
@@ -155,7 +155,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mishumd-pair.site.je">
+  <a href="https://qadeer_md-pair.site.je">
     <img src="https://img.shields.io/badge/🔑_GET_SESSION-FF6B00?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="350"/>
   </a>
 </p>
@@ -170,7 +170,7 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Arslan-MD/Mishu-MD">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/QADEER_MD/QADEER_MD">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000" width="200"/>
   </a>
   <a href="https://app.koyeb.com/services/deploy?type=git&repository=Arslan-MD/Mishu-MD">
@@ -206,7 +206,7 @@
 
 ```bash
 # 1️⃣ Clone Repository
-git clone https://github.com/Arslan-MD/Mishu-MD.git
+git clone https://github.com/QADEER_MD.git
 
 # 2️⃣ Enter Directory
 cd Mishu-MD
@@ -248,13 +248,13 @@ Performance Optimized & Fast
 🤝 CONTRIBUTION
 
 <p align="center">
-  <a href="https://github.com/Arslan-MD/Mishu-MD/fork">
+  <a href="https://github.com/QADEER_MD/fork">
     <img src="https://img.shields.io/badge/🍴_FORK_REPO-000000?style=for-the-badge&logo=github&logoColor=white" width="220"/>
   </a>
-  <a href="https://github.com/Arslan-MD/Mishu-MD/stargazers">
+  <a href="https://github.com/Qadeer_MD/stargazers">
     <img src="https://img.shields.io/badge/⭐_STAR_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black" width="220"/>
   </a>
-  <a href="https://github.com/Arslan-MD/Mishu-MD/issues">
+  <a href="https://github.com/Qadeer-MD/issues">
     <img src="https://img.shields.io/badge/🐛_REPORT_ISSUE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" width="220"/>
   </a>
 </p>
@@ -290,13 +290,13 @@ Performance Optimized & Fast
 📊 STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&show_icons=true&theme=dark&border_color=00F0FF&title_color=00F0FF&icon_color=00F0FF&bg_color=000000" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan-MD&layout=compact&theme=dark&border_color=FF6B00&title_color=FF6B00&bg_color=000000" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Qadeer-MD&show_icons=true&theme=dark&border_color=00F0FF&title_color=00F0FF&icon_color=00F0FF&bg_color=000000" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qadeer-MD&layout=compact&theme=dark&border_color=FF6B00&title_color=FF6B00&bg_color=000000" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arslan-MD&label=PROFILE+VIEWS&style=flat-square&color=00F0FF&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🚀_MISHU_MD-00F0FF?style=flat-square&logo=starship&logoColor=white&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=Qadeer-MD&label=PROFILE+VIEWS&style=flat-square&color=00F0FF&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🚀_QADER_MD-00F0FF?style=flat-square&logo=starship&logoColor=white&labelColor=000000" />
 </p>
 
 ---
@@ -308,7 +308,7 @@ Performance Optimized & Fast
 🏁
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=700&height=30&lines=©+2026+MISHU-MD+%7C+DEVELOPED+BY+ARSLAN+MD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=700&height=30&lines=©+2026+MISHU-MD+%7C+DEVELOPED+BY+QADEER+MD" />
 </p>
 
 <p align="center">
