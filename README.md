@@ -308,7 +308,7 @@ Performance Optimized & Fast
 🏁
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=700&height=30&lines=©+2026+MISHU-MD+%7C+DEVELOPED+BY+QADEER+MD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=700&height=30&lines=©+2026+Qadeer_MD+%7C+DEVELOPED+BY+QADEER+MD" />
 </p>
 
 <p align="center">
