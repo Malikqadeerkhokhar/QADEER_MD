@@ -11,7 +11,7 @@
 
 <!-- GLOWING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=900&height=60&lines=🚀+MISHU-MD+🚀;⚡+NEXT+GEN+WHATSAPP+BOT+⚡;💻+PROFESSIONAL+EDITION+💻" alt="QADEER_MD Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=900&height=60&lines=🚀+QADEER_MD+🚀;⚡+NEXT+GEN+WHATSAPP+BOT+⚡;💻+PROFESSIONAL+EDITION+💻" alt="QADEER_MD Header" />
 </p>
 
 
