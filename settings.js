@@ -1,6 +1,6 @@
 // ============================================
-// 🌸 MISHU-MD SETTINGS CONFIGURATION
-// 👑 Developer: ᴀʀꜱʟᴀɴ-ᴍᴅ
+// 😈 QADEER_MD SETTINGS CONFIGURATION
+// 👑 Developer: QADEER_MD
 // 🚀 Version: 7.0.0
 // 💖 Power Mode: ON
 // ============================================
