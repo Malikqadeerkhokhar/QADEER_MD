@@ -25,7 +25,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=600&height=50&lines=⚡+MISHU-MD+⚡;🔧+PROFESSIONAL+BOT+🔧;💻+DEVELOPER+EDITION+💻" alt="MISHU-MD Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=600&height=50&lines=⚡+QADEER-MD+⚡;🔧+PROFESSIONAL+BOT+🔧;💻+DEVELOPER+EDITION+💻" alt="QADEER-MD Title" />
 </h1>
 
 <p align="center">
