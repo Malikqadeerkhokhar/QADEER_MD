@@ -209,7 +209,7 @@
 git clone https://github.com/QADEER_MD.git
 
 # 2️⃣ Enter Directory
-cd Mishu-MD
+cd QADEER-MD 
 
 # 3️⃣ Install Dependencies
 npm install
